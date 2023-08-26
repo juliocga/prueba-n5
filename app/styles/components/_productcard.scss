@@ -1,0 +1,87 @@
+.product_card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 310px;
+  border: var(--border);
+  border-radius: 15px;
+  padding: 20px;
+  background-color: var(--background-color);
+  transition: box-shadow 0.3s ease-in-out;
+
+  p {
+    margin: 2px;
+    font-size: 15px;
+    font-size: 18px;
+    font-family: cursive;
+  }
+  
+  .store {
+    font-size: 12px;
+  }
+
+  .product_img{
+    margin-bottom: 10px;
+  }
+  
+  .amount_buttons{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    column-gap: 2px;
+
+    .circle_button {
+      border: none;
+      cursor: pointer;
+      width: 30px;
+      height: 30px;
+      padding: 0;
+      border-radius: 25px;
+    }
+
+    .circle_button:hover {
+      background-color: #a4abed;
+    }
+
+    .amount{
+      background-color: #f3f3f3;
+      padding: 10px 15px;
+      border-radius: 10px;
+      border: 1px solid #b9b9b9;
+    }
+  }
+
+  .add_button{
+    width: 100px;
+    height: 40px;
+    border-radius: 12px;
+    border: 1px solid #b9b9b9;
+    background-color: var(--background-button);
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .add_button:hover {
+    background-color: var(--background-button-hover);
+  }
+  
+  .add_button:disabled {
+    background-color: var(--background-button-disabled);
+  }
+  
+  .name_product{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 200px;
+    text-align: center;
+  }
+}
+
+.product_card:hover {
+  box-shadow: 0px 3px 16px 0px rgba(0,0,0,0.56);
+}

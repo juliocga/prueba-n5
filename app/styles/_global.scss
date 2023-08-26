@@ -1,0 +1,31 @@
+@import "mixins";
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  padding: 120px;
+  display: flex;
+}
+
+P, a, label {
+  font-family: cursive;
+}
+
+button {
+  cursor: pointer;
+}
+
+@include mobile() {
+  main {
+    padding: 120px 20px;
+  }
+}

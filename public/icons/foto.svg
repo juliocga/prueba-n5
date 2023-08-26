@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 323 218" version="1.0">
+  <defs id="defs4">
+    <filter id="filter3492" y="-.48224" width="1.4973" x="-.24866" height="1.9645">
+      <feGaussianBlur id="feGaussianBlur3494" stdDeviation="6.6308594"/>
+    </filter>
+    <filter id="filter3367" y="-.50453" width="1.1628" x="-.081375" height="2.0091">
+      <feGaussianBlur id="feGaussianBlur3369" stdDeviation="2.1021898"/>
+    </filter>
+    <linearGradient id="linearGradient3458" y2="288.36" gradientUnits="userSpaceOnUse" y1="151.19" x2="209" x1="209">
+      <stop id="stop3506" stop-color="#006aff" offset="0"/>
+      <stop id="stop3508" stop-color="#00000f" stop-opacity=".94118" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3465" x1="144.03" gradientUnits="userSpaceOnUse" y1="81.466" gradientTransform="matrix(.99330 -.0020069 .016674 1.0277 3.2135 -11.013)" x2="144.03" y2="67.233">
+      <stop id="stop3375" stop-color="#b3b3b3" offset="0"/>
+      <stop id="stop3377" stop-color="#b3b3b3" stop-opacity="0" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3467" x1="143.95" gradientUnits="userSpaceOnUse" y1="82.653" gradientTransform="matrix(.99330 -.0020069 .016674 1.0277 3.2135 -11.013)" x2="140.04" y2="62.589">
+      <stop id="stop3383" offset="0"/>
+      <stop id="stop3385" stop-opacity="0" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3476" y2="68.296" gradientUnits="userSpaceOnUse" y1="244.36" x2="225.5" x1="250">
+      <stop id="stop3530" stop-color="#333" offset="0"/>
+      <stop id="stop3532" stop-color="#333" stop-opacity="0" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(-62 -41.362)">
+    <path id="rect2383" opacity=".67407" d="m147.5 57.375c-22.36 0-40.5 5.824-40.5 13 0 0.363 0.07 0.707 0.16 1.063h-7.785c-9.584 0-17.281 7.728-17.281 17.312v136.22c0 9.58 7.697 17.31 17.281 17.31h252.24c9.59 0 17.29-7.73 17.29-17.31v-136.22c0-9.584-7.7-17.312-17.29-17.312h-163.78c0.09-0.356 0.16-0.7 0.16-1.063 0-7.176-18.14-13-40.5-13z" stroke-opacity=".55128" stroke-dashoffset="5.8" stroke="#000" stroke-width="4.1582" fill="url(#linearGradient3476)"/>
+    <path id="path3155" d="m313 174.36a52 52 0 1 1 -104 0 52 52 0 1 1 104 0z" stroke-dashoffset="5.8" transform="matrix(1.2895 0 0 1.2895 -150.37 -65.294)" stroke="#878787" stroke-width="1.7008" fill="#ccc"/>
+    <rect id="rect3157" stroke-dashoffset="5.8" ry="15.5" height="31" width="80" stroke="#878787" y="86.362" x="273" stroke-width="4" fill="#a1daff"/>
+    <path id="path3162" d="m258 177.36a51 51 0 1 1 -102 0 51 51 0 1 1 102 0z" stroke-dashoffset="5.8" transform="translate(-20.824 -17.824)" stroke="#878787" stroke-width="2" fill="#ccc"/>
+    <path id="path3164" d="m253 178.36a44 44 0 1 1 -88 0 44 44 0 1 1 88 0z" stroke-dashoffset="5.8" transform="translate(-22.824 -18.824)" stroke="#878787" stroke-width="2" fill="url(#linearGradient3458)"/>
+    <path id="path3166" opacity=".79762" d="m223 142.86a32 16.5 0 1 1 -64 0 32 16.5 0 1 1 64 0z" transform="translate(-6,-6)" filter="url(#filter3492)" fill="#fff"/>
+    <path id="path3165" filter="url(#filter3367)" fill="#fff" d="m345 96.362a31 5 0 1 1 -62 0 31 5 0 1 1 62 0z"/>
+    <path id="path3371" d="m186.88 68.31c0.1 5.674 1.83 4.659-35.15 4.733-42.97 0.087-43.42 0.606-43.49-4.147-0.1-5.673 18.87-12.315 38.34-12.354 19.46-0.04 40.21 6.095 40.3 11.768z" stroke-opacity=".38034" stroke-dashoffset="5.8" stroke="url(#linearGradient3467)" stroke-width="2.0208" fill="url(#linearGradient3465)"/>
+    <rect id="rect2410" opacity="0" ry="0" height="218" width="323" y="41.362" x="62" stroke-width="2"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>digicam</dc:title>
+        <dc:date>2010-03-25T10:11:20</dc:date>
+        <dc:description>Digitalkamera kompakt</dc:description>
+        <dc:source>http://openclipart.org/detail/34051/digicam-by-thesaurus</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>thesaurus</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>camera</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>computer</rdf:li>
+            <rdf:li>digital</rdf:li>
+            <rdf:li>digitalkamera</rdf:li>
+            <rdf:li>foto</rdf:li>
+            <rdf:li>fotoapparat</rdf:li>
+            <rdf:li>fotografie</rdf:li>
+            <rdf:li>hardware</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>kamera</rdf:li>
+            <rdf:li>kompaktcamera</rdf:li>
+            <rdf:li>kompaktkamera</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>photo</rdf:li>
+            <rdf:li>photography</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
